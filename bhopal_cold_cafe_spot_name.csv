@@ -1,0 +1,71 @@
+name,lat,lng,type,rating,opening_time,closing_time
+Nothing Before Coffee Gulmohar,23.1936735,77.435483,cafe,4.6,08:00,23:30
+Nothing Before Coffee Indrapuri,23.250214,77.4659855,cafe,4.6,09:00,00:00
+Coffee Therapy Arera,23.2130544,77.4374757,cafe,4.6,09:00,23:00
+Handcrafted Cafe Arera,23.2175406,77.4383839,cafe,4.3,08:00,22:45
+Co-ffee Cafe Bairagarh,23.2866403,77.3539732,cafe,4.6,10:00,00:00
+Cafe Nadora Gulmohar,23.1848322,77.4346122,cafe,4.4,11:00,23:00
+Bake N Shake MP Nagar,23.2290,77.4360,cafe,4.7,10:00,23:30
+Cafe Coffee Day DB Mall,23.2172068,77.4274557,cafe,4.2,09:00,23:00
+Cafe Coffee Day Lake View,23.2422919,77.3817744,cafe,4.3,09:00,23:00
+Indian Coffee House MP Nagar,23.230698,77.431837,cafe,4.1,07:00,23:00
+
+Starbucks Arera Colony,23.2155,77.4065,cafe,4.5,09:00,23:30
+Cafe Mojo Jojo,23.2205,77.4305,cafe,4.8,10:00,23:30
+Kafe Kulture Gulmohar,23.1905,77.4355,cafe,4.6,10:00,23:00
+Sharikh Coffee Shop,23.2480,77.3970,cafe,4.4,10:00,23:30
+Frespresso TT Nagar,23.2400,77.4100,cafe,4.3,09:00,22:00
+
+Twentea Coffee 10No,23.2135,77.4370,cafe,4.5,10:00,23:00
+Poppin Deli Arera,23.2150,77.4350,cafe,4.3,11:00,23:00
+The Evening Post 10No,23.2138,77.4365,cafe,4.2,10:00,22:30
+Oliver Cafe Bhopal,23.2180,77.4390,cafe,4.4,10:00,23:30
+Noor Us Sabah Cafe,23.2600,77.3800,cafe,4.5,11:00,23:00
+
+Lake View Coffee House,23.2572,77.3678,cafe,4.5,11:00,23:00
+Chai Kapi 10No,23.2070,77.4365,cafe,4.2,09:00,22:30
+Pin & Pan Cafe,23.1731,77.4326,cafe,4.3,10:00,22:30
+Blue Cafe Bhopal,23.2166,77.4269,cafe,4.1,09:30,22:00
+Hidden Cafe Bhopal,23.2506,77.5265,cafe,4.2,10:00,22:30
+
+Coffee Junction Arera,23.2200,77.4400,cafe,4.0,09:30,22:00
+Bean Street Cafe,23.2120,77.4380,cafe,4.1,10:00,22:30
+Urban Coffee Hub,23.2100,77.4350,cafe,4.2,09:00,22:00
+Cafe Brew House,23.2300,77.4450,cafe,4.3,10:00,23:00
+Roast & Relax Cafe,23.2400,77.4500,cafe,4.2,09:00,22:30
+
+Lake Side Cafe VIP,23.2600,77.3700,cafe,4.5,11:00,23:30
+Sunset Coffee Spot,23.2580,77.3680,cafe,4.4,16:00,00:00
+Cafe Aroma Bhopal,23.2350,77.4300,cafe,4.1,09:00,22:00
+Bhopal Brew Lab,23.2450,77.4000,cafe,4.3,10:00,22:30
+Cafe Desire Shivaji Nagar,23.2305,77.4205,cafe,4.6,10:00,23:00
+
+Capital Coffee Shop,23.2550,77.3950,cafe,4.2,09:00,22:00
+Tea Ville MP Nagar,23.2295,77.4365,cafe,4.6,10:00,23:30
+Chai Ho Jaye Cafe,23.2605,77.4105,cafe,4.4,09:00,22:30
+Green House Bistro,23.2600,77.3805,cafe,4.7,11:00,23:00
+Cafe Amado Arera,23.2155,77.4321,cafe,4.4,09:00,22:30
+
+Coffee Cart 10No,23.2130,77.4360,cart,4.1,16:00,23:30
+Street Brew TT Nagar,23.2405,77.4105,cart,4.0,15:00,23:00
+Lake Coffee Cart VIP,23.2571,77.3679,cart,4.3,17:00,00:00
+Sharma Coffee Stall,23.2500,77.4200,cart,4.2,16:00,23:00
+Quick Sip Coffee Cart,23.2205,77.4355,cart,4.0,15:00,22:30
+
+Evening Coffee Stall,23.2255,77.4385,cart,4.1,16:00,23:00
+Cold Brew Junction,23.2305,77.4405,cart,4.2,16:30,23:30
+Chai Adda Cart,23.2355,77.4455,cart,4.0,15:30,23:00
+Night Coffee Cart Arera,23.2155,77.4385,cart,4.2,17:00,00:00
+Roadside Coffee Spot,23.2405,77.4505,cart,4.1,16:00,23:30
+
+MP Nagar Coffee Truck,23.2295,77.4365,truck,4.3,17:00,00:30
+Brew Truck Arera,23.2155,77.4380,truck,4.4,18:00,01:00
+Night Coffee Van Kolar,23.2405,77.3900,truck,4.2,18:00,01:30
+Coffee Wheels Bhopal,23.2250,77.4300,truck,4.3,17:30,00:30
+Midnight Coffee Truck,23.2405,77.4505,truck,4.3,19:00,02:00
+
+Night Owl Coffee Truck,23.2505,77.4605,truck,4.2,18:30,01:30
+Street Coffee Express,23.2605,77.4705,truck,4.1,18:00,01:00
+Late Night Brew Truck,23.2705,77.4805,truck,4.3,19:00,02:30
+Coffee Ride Truck,23.2805,77.4905,truck,4.2,18:30,01:30
+Urban Coffee Truck,23.2905,77.5005,truck,4.4,19:00,02:00
