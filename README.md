@@ -34,22 +34,12 @@ Interactive UI built using Streamlit
 Users can explore cafés dynamically
 
 ▶️ Run Locally
-# Clone the repository
-git clone https://github.com/your-username/bhopal-cold-coffee-finder.git
-
-# Navigate to project folder
-cd bhopal-cold-coffee-finder
-
-# Install dependencies
-pip install -r requirements.txt
-
 # Run the app
 streamlit run app.py
 
 
 🎯 Future Improvements
 🌐 Integrate Google Maps API
-📱 Mobile responsive UI
 🤖 Recommendation system
 📈 Advanced analytics dashboard
 🤝 Contributing
