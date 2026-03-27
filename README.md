@@ -35,7 +35,7 @@ Users can explore cafés dynamically
 
 ▶️ Run Locally
 # Run the app
-streamlit run app.py
+streamlit run web_app.py
 
 
 🎯 Future Improvements
